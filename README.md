@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi my name is Leandro!! How are you?👋
 
-<!--
-**Leandrodnl09/Leandrodnl09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje estou apenas estudando ADS (Análise e Desenvolvimento de Sistemas);
+- 🌱 Estou estudando algumas mais a linguagem C# (Front-End, .NET, etc...);
+- 🔗 Meu linkedIn: [Leandro Di Nardo Lazarin](https://www.linkedin.com/in/leandro-di-nardo-lazarin-694a59236/)
+- 😄 Pronouns: Ele\Dele;
+- 💓 I love tecnology;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Leandrodnl09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandrodnl09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrodnl09&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Leandrodnl09" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Leandrodnl09" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;
+</div>
+  
