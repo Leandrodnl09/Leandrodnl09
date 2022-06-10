@@ -22,5 +22,7 @@
  
 
   </div>
+  
+  ![Snake animation](https://github.com/Leandrodnl09/Leandrodnl09/blob/output/github-contribution-grid-snake.svg)
 
 
