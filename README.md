@@ -13,13 +13,14 @@
   <a href="https://github.com/Leandrodnl09">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Leandrodnl09&show_icons=true&theme=dracula&include_all_commits=true&count_public=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrodnl09&layout=compact&langs_count=7&theme=dracula"/>
+  
 </div>
   </br>
  <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandrodnl09-dotnet" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Leandrodnl09-csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
+ <img align="center" alt="JavaScript" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
   </div>
   
