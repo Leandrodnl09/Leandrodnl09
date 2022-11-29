@@ -11,13 +11,12 @@
 <div>
   
  <a href="https://github.com/Leandrodnl09">
-  <br>
     
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Leandrodnl09&show_icons=true&theme=react&include_all_commits=true&count_private=true"/><br>
+  <img height="220em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Leandrodnl09&show_icons=true&theme=react&include_all_commits=true&count_private=true"/><br>
     
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrodnl09&layout=compact&langs_count=7&theme=react" /><br>
+  <img height="220em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrodnl09&layout=compact&langs_count=7&theme=react" /><br>
     
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img align="center" width="220" height="220em" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 
 </div>
 <br>
