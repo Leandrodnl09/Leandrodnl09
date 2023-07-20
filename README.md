@@ -35,5 +35,8 @@
   <a href="https://www.linkedin.com/in/leandro-di-nardo-lazarin-694a59236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:leandrodnl09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
-   
-![gitartwork](gitartwork.svg)
+
+<p align="center">
+  <img src="gitartwork.svg" alt="Git Artwork">
+</p>
+
